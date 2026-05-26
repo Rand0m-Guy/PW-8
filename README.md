@@ -71,7 +71,7 @@ La herramienta de desarrollo que se requiera para poder cargar los archivos VHDL
 
 ## Instalación
 ```bash
-git clone https://github.com/Rand0m-Guy/PW-8.git
+git clone https://github.com/PW-8/PW-8.git
 cd PW-8/assembler
 ```
 
